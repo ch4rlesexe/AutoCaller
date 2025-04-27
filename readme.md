@@ -18,7 +18,7 @@ AutoCaller is a Python-based automation tool that repeatedly calls a phone numbe
 - [ChromeDriver](https://sites.google.com/chromium.org/driver/) matching your Chrome version
 - Google Voice account signed into Chrome
 - Optional: [VB-Audio Virtual Cable](https://vb-audio.com/Cable/) (for DTMF detection)
-
+```
 ### Installation
 
 1. Clone or download this repository.
